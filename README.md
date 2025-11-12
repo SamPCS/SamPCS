@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sam Vogel
 
-### 🚀 Automation Engineer | DevOps Enthusiast | Problem Solver
+### 🪄 Automation Engineer | DevOps Enthusiast | Problem Solver 
 
 ---
 
