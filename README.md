@@ -44,8 +44,8 @@ I specialize in building automation workflows and deployment solutions that stre
 ---
 
 ## 📫 Connect With Me
-- LinkedIn *(https://www.linkedin.com/in/samuel-vogel-4653a1218/)*
-- [GitHub](https://⚡ Fun Fact
+- LinkedIn *https://www.linkedin.com/in/samuel-vogel-4653a1218/*
+- GitHub *https://github.com/SamPCS/SamScripts*
 I love creating one-off tools and scripts to solve unique challenges—check out my **Sam-Scripts** repository for a glimpse into my toolbox!
 
 ---
